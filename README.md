@@ -1,11 +1,3 @@
-<div align="center">
-<h1>Sayem Molla</h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ### 👨‍💻️ About Me :
 
 I am a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
