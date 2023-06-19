@@ -42,6 +42,6 @@ I am a MErn Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### My Stats :
 <a href="https://app.daily.dev/developersayem"><img src="https://api.daily.dev/devcards/e3b57b11eea744de80641bd5c9f3d09f.png?r=ad6" width="400" alt="sayem molla's Dev Card"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersayem_icons=true&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devsayemmolla.ludehsar)
