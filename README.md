@@ -44,4 +44,6 @@ I am a MErn Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersayem&show_icons=true&theme=radical)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=developersayem)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devsayemmolla.ludehsar)
