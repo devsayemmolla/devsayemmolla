@@ -40,6 +40,7 @@ I am a MErn Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <br/>
 
 ### My Stats :
+<a href="https://app.daily.dev/developersayem"><img src="https://api.daily.dev/devcards/e3b57b11eea744de80641bd5c9f3d09f.png?r=ad6" width="400" alt="sayem molla's Dev Card"/></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devsayemmolla&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=devsayemmolla&count_private=true&show_icons=true&include_all_commits=true)
