@@ -1,49 +1,99 @@
-### 👨‍💻️ About Me :
+<h1 align="left">Hi 👋! I am Sayem Molla, a MERN Stack Web Developer from Bangladesh.</h1>
 
-I am a MERN Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+###
 
-- 🔭 I’m a Full-Stack Web Developer and contributing to frontend and backend for building web applications.
+<h3 align="left">🌱 Exploring More Coding Language.<br><br>⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.</h3>
 
-- 🌱 Exploring More Coding Language.
+###
 
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-### Connect me :
-
-- <a href="https://www.facebook.com/elreydediablo7/">Facebook</a>
-- <a href="https://www.instagram.com/dev.sayem.molla/">Instagram</a>
-- <a href="https://www.linkedin.com/in/sayem-molla-devsm/">Linkedin</a>
-- <a href="https://twitter.com/SayemMolla10">Twitter</a>
-
-- 📧 sayemmolla012@gmail.com
-
-### Languages and Tools :
-
-<br/>
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" title="React" alt="React " width="40" height="40"/>&nbsp;
-  &nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR81s2BetKvsvix5szaKt2gQyX12huNnD7TdA&usqp=CAU" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_ZSJLXJYoX4zQOH9YL_6R1wXSPArKxnMKQ&usqp=CAU" title="Tailwind Css" alt="Tailwind Css" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dynrld3nm/image/upload/v1657914796/guntxjakka.me/techstack/daisyui_hvjkhf.png" title="Daisy UI"  alt="Deisy UI" width="40" height="40"/>&nbsp;
-  <img src="https://www.kindpng.com/picc/m/13-131015_visual-studio-code-logo-hd-png-download.png" title="VS Code"  alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://t3.ftcdn.net/jpg/03/52/67/82/240_F_352678266_NFcwIwhhY76mkQItT4lCxyxcCTP3LgvY.jpg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png" title="netlify " alt="netlify " width="40" height="40"/>&nbsp;
-  <img src="https://ih1.redbubble.net/image.438910675.6211/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" title="mongodb " alt="mongodb " width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developersayem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=developersayem&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developersayem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<br/>
 
-### My Stats :
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
+</div>
+
+
+
+###
+
+<div align="left">
+  <a href="https://wa.me/01704878051" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="developersayem@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sayem-molla/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/sayemmolla.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="developersayem012@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/developersayem/developersayem/output/snake.svg" alt="Snake animation" />
+
+
+###
+
+
 <a href="https://app.daily.dev/developersayem"><img src="https://api.daily.dev/devcards/e3b57b11eea744de80641bd5c9f3d09f.png?r=k6k" width="400" alt="sayem molla's Dev Card"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developersayem&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developersayem&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devsayemmolla.ludehsar)
+###
