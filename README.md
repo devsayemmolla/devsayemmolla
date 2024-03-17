@@ -95,5 +95,5 @@
 ###
 
 
-<a href="https://app.daily.dev/developersayem"><img src="https://api.daily.dev/devcards/e3b57b11eea744de80641bd5c9f3d09f.png?r=k6k" width="400" alt="sayem molla's Dev Card"/></a>
+<a href="https://app.daily.dev/developersayem"><img src="https://api.daily.dev/devcards/v2/WvpVNKlEvNtnyA74NX00Q.png?r=njc&type=wide" width="652" alt="sayem molla's Dev Card"/></a>
 ###
